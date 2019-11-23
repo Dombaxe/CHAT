@@ -5,6 +5,7 @@
 body{
     margin:0;
     padding:0;
+    background-color:white;
 
 
 }
@@ -41,9 +42,7 @@ li{
     justify-content:space-between;
 }
 .dom2{
-    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #6AB9E5;
     text-align:center;
-   
 
 }
 .dom2 p{
